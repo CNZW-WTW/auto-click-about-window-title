@@ -2,7 +2,7 @@
 使用```Python```实现检测到某一窗口存在时，自动点击屏幕的指定位置
 ### 1. 安装
 在使用前需要先使用```pip3 install```指令安装```pyautogui```  
-如果没有安装Python3.x，需要先从官网或使用winget安装
+如果没有安装Python3.x，需要先从[Python官网](https://python.com/)或使用winget安装
 ```bash
 winget install python3
 ```
@@ -14,3 +14,4 @@ pip3 install pyautogui
 ```bash
 python3 auto.py
 ```
+![CNZW](https://cnzw-wtw.github.io/img/pay/donate.jpg)
