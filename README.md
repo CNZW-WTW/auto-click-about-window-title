@@ -23,4 +23,4 @@ pyautogui.moveTo(X, Y, duration=0.25)
 ```bash
 monitor_window('CNZW')
 ```
-![CNZW](https://cnzw-wtw.github.io/pay/donate.jpg)
+![CNZW](https://cnzw-wtw.github.io/img/pay/donate.jpg)
