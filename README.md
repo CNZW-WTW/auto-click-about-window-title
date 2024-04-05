@@ -19,7 +19,7 @@ python3 auto.py
 ```bash
 pyautogui.moveTo(X, Y, duration=0.25)
 ```
-你也可以通过修改最后一行```monitor_window('CNZW')```中'CNZW'的内容来设置触发点击的窗口标题
+你也可以通过修改最后一行```monitor_window('CNZW')```中```'CNZW'```的内容来设置触发点击的窗口标题
 ```bash
 monitor_window('CNZW')
 ```
